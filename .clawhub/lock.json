@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773757681081
+    },
+    "xurl": {
+      "version": "1.0.0",
+      "installedAt": 1773757681305
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1773757741331
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1773758042335
+    },
+    "video-frames": {
+      "version": "1.0.0",
+      "installedAt": 1773758101886
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773758581775
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773759061096
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1773759961325
+    },
+    "byterover": {
+      "version": "2.1.0",
+      "installedAt": 1773760201397
+    },
+    "obsidian-1-0-0": {
+      "version": "1.0.0",
+      "installedAt": 1773760637938
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1773760683255
+    },
+    "self-improving-agent": {
+      "version": "3.0.5",
+      "installedAt": 1773760803613
+    },
+    "documents-ai": {
+      "version": "1.0.1",
+      "installedAt": 1773760924179
+    },
+    "fast-io": {
+      "version": "1.123.0",
+      "installedAt": 1773761103270
+    },
+    "mission-control": {
+      "version": "2.3.1",
+      "installedAt": 1773761762891
+    },
+    "agentmail": {
+      "version": "1.1.1",
+      "installedAt": 1773762852909
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1773763081736
+    },
+    "agent-browser-clawdbot": {
+      "version": "0.1.0",
+      "installedAt": 1773842709122
+    },
+    "reverse-image-search": {
+      "version": "1.0.0",
+      "installedAt": 1773919201541
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1773933301529
+    }
+  }
+}

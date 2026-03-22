@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Security sensitive
+.sydney_security/hashes.json
+.sydney_security/integrity.log
+
+# OAuth / Login scripts (contain credentials)
+browser-login.js
+gog-login.js
+client_secret.json
+
+# OAuth tokens / accounts
+ms-graph/accounts/*.json
+gog-cli/accounts/*.json
+
+# Memory / conversation logs (private)
+memory/
+heartbeat-state.json
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+# Boot
+BOOTSTRAP.md
